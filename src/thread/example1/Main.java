@@ -1,7 +1,9 @@
-package thread;
+package thread.example1;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException{
+
+        // in the Thread(), pass the Runnable
         Thread thread = new Thread(new Runnable() {
             @Override
             public void run() {
