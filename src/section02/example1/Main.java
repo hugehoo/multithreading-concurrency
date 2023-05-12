@@ -1,4 +1,4 @@
-package thread.example1;
+package section02.example1;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException{

@@ -1,4 +1,4 @@
-package thread.example2;
+package section02.example2;
 
 public class Thread {
     // Thread Class 를 직접 생성하는 대신 상속을 활용

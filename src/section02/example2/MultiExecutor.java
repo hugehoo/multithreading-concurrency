@@ -1,4 +1,4 @@
-package thread.example2;
+package section02.example2;
 
 import java.util.List;
 
